@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440238912151",
+    "project_id": "chathub-3cef8",
+    "storage_bucket": "chathub-3cef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440238912151:android:5fbf0c0a76a4af8112afd2",
+        "android_client_info": {
+          "package_name": "com.example.chathub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440238912151-mccdf8rg2ngrqkmhcs6h3r9j4a3dcgsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chathub",
+            "certificate_hash": "bb192beb6b56874a57ca9852e767c2916ad92b56"
+          }
+        },
+        {
+          "client_id": "440238912151-k1pk5cr6e6t78il8fgc7o6lppec057fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCIP8QNuqtRL0IiBC-5Alqol8SPmtPgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440238912151-k1pk5cr6e6t78il8fgc7o6lppec057fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
